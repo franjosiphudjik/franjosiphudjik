@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 My name is Fran
+## I'm a telematics student looking for internships and part-time work.
+### 🤝 Open to collaborating on interesting projects
+### 🌍 Based in Rijeka, Croatia
 
 <!--
 **franjosiphudjik/franjosiphudjik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
